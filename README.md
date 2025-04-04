@@ -7,6 +7,8 @@
 ![GitHub issues](https://img.shields.io/github/issues/kush9405/Donation_App)
 
 Donation App is a decentralized application built on the Ethereum blockchain that allows users to make and receive donations in a transparent and secure manner.
+<img width="616" alt="image" src="https://github.com/user-attachments/assets/93203e72-151b-4968-8c3a-6e67576a5d75" />
+<img width="1026" alt="image" src="https://github.com/user-attachments/assets/c3896b55-3430-41a3-9fa9-40628e284989" />
 
 ## Table of Contents
 
@@ -89,4 +91,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or need further assistance, feel free to contact:
 
-- **Kush Patel** - [GitHub](https://github.com/kush9405) - [Email](mailto:youremail@example.com)
+- **Kushagra Agarwal** - [GitHub](https://github.com/kush9405) - [Email](mailto:kushagraagarwal2003@gmail.com)
